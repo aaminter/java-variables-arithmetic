@@ -1,6 +1,6 @@
 # Java Variables and Arithmetic Operations
 
-![Java CI](https://github.com/aaminter/dz4/actions/workflows/ci.yml/badge.svg)
+![Java CI](https://github.com/aaminter/java-variables-arithmetic/actions/workflows/ci.yml/badge.svg)
 
 Учебные упражнения по базовым конструкциям Java.
 
